@@ -19,9 +19,9 @@
 
 <br>
 
-目前智能合约部署在星云测试链上, 
-合约地址:  n21TUq1hAdVAJV294CBmvcLaaHv7yRJxrJq
-交易哈希:  03249f7ea47cafb13fb2b61b59f16ec198eb7d18a66acbfcd8a82b827ff2be57
+目前智能合约部署在星云主网上, 
+合约地址:  n1r1bVMebJvhAHQnwvRSvLc7mH9PGdmQXgY
+交易哈希:  bef86c29e1ef65a8b869a5d2f40a08f94304a8e4cbc3c69205b461e83480b9f6
 
 ----
 
